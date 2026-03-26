@@ -17,6 +17,7 @@ Text preprocessing (cleaning, removing links & symbols)
 Machine learning-based classification
 Real-time review prediction
 Lightweight and easy to deploy
+
 🔹 Conclusion
 
 The Fake Review Detection System successfully identifies spam and misleading reviews using machine learning. This project can be extended with deep learning and deployed in real-world e-commerce platforms to enhance security and trust.
@@ -26,13 +27,11 @@ E-commerce companies (Amazon, Flipkart-like platforms)
 Customers (to view genuine reviews)
 Sellers (to maintain credibility)
 Admins (to monitor fake activities)
+
 🔹 Future Enhancements
 Use Deep Learning (LSTM, BERT)
 Build web app using Flask/Streamlit
 Add user behavior analysis
 Integrate with live e-commerce APIs
-⭐ Bonus Ideas (to impress evaluators)
-Add accuracy score display
-Add GUI (Streamlit)
-Use larger dataset (Kaggle)
-Show confusion matrix graph
+
+
